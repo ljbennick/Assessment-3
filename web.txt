@@ -1,0 +1,3 @@
+The internet is basically just a server where computers are all networked together. The computers are then able to communicate with each other by traveling through ISP's. The user will make a request and that request travels to a different computer that runs whatever request you have sent and returns a response back to the user based on whatever code was ran. 
+
+    When you click on a link it takes you to that links IP address where all the code for that website is stored. The website then runs the code to show you whatever html elements are attached. It then runs the function codes that make the website interactive.
